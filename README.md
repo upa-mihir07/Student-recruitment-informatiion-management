@@ -1,4 +1,4 @@
-# Student-recruitment-informatiion-management
+# Student-recruitment-information-management
 A webapp created in django for comprehensive student information system and user
 interface is to replace the current paper records. College Staff are able to directly access all
 aspects of a student’s academic progress through a secure, online interface embedded in the
